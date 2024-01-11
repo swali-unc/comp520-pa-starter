@@ -1,2 +1,3 @@
-# comp520-pa1-starter
-Starter code for PA1
+# comp520-pa-starter
+
+Starter code for PA1 has been uploaded.
