@@ -6,8 +6,6 @@ import miniJava.AbstractSyntaxTrees.Package;
 
 public class TypeChecking implements Visitor<Object, TypeDenoter> {
 	private ErrorReporter _errors;
-	private TypeDenoter _currentMethodType;
-	private ClassDecl _currentClass;
 	
 	public TypeChecking(ErrorReporter errors) {
 		this._errors = errors;
